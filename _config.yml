@@ -30,12 +30,12 @@ redcarpet:
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : ruleless
+title : szgla
 tagline: Site Tagline
 author :
-  name : ruleless
+  name : szgla
   email : ruleless126@gmail.com
-  github : ruleless
+  github : szgla
   #twitter : username
   #feedburner : feedname
 
@@ -47,9 +47,9 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://ruleless.github.io
-production_sitename : ruleless.github.io
-repository_url: https://github.com/ruleless/ruleless.github.io/blob/master/
+production_url : https://szgla.github.io
+production_sitename : szgla.github.io
+repository_url: https://github.com/ruleless/szgla.github.io/blob/master/
 
 #  specify configuration in the pages and posts for your site.
 defaults:
